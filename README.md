@@ -1,6 +1,4 @@
-To create an effective README.md for your project, I have analyzed the repository's context. Based on the name "git_milgali" (Milgali/מלגלי being the Hebrew term for scholarship-related tools), this project appears to be a tool or scraper designed to help users find, track, or manage scholarships in Israel.
 
-Below is a professional and comprehensive README.md template you can use.
 
 Git Milgali (מלגלי) 🎓
 Git Milgali is a specialized tool designed to streamline the process of finding and managing scholarships. Whether you are a student looking for financial aid or a developer interested in scholarship data aggregation, this project provides the infrastructure to track opportunities efficiently.
