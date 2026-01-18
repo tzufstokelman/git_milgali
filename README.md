@@ -1,5 +1,6 @@
 
 Milgali (מלגלי) 🎓
+
 Milgali is a specialized tool designed to streamline the process of finding and managing scholarships. Whether you are a student looking for financial aid or a developer interested in scholarship data aggregation, this project provides the infrastructure to track opportunities efficiently.
 
 🚀 Features
