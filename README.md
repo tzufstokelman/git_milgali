@@ -1,7 +1,6 @@
 
-
-Git Milgali (מלגלי) 🎓
-Git Milgali is a specialized tool designed to streamline the process of finding and managing scholarships. Whether you are a student looking for financial aid or a developer interested in scholarship data aggregation, this project provides the infrastructure to track opportunities efficiently.
+Milgali (מלגלי) 🎓
+Milgali is a specialized tool designed to streamline the process of finding and managing scholarships. Whether you are a student looking for financial aid or a developer interested in scholarship data aggregation, this project provides the infrastructure to track opportunities efficiently.
 
 🚀 Features
 Automated Discovery: (Optional: Update if applicable) Scrapes or tracks updates from major scholarship databases.
@@ -13,10 +12,9 @@ Categorization: Filters scholarships by criteria such as academic field, socio-e
 🛠 Installation
 To get started with Git Milgali, clone the repository to your local machine:
 
-Bash
-
 git clone https://github.com/tzufstokelman/git_milgali.git
 cd git_milgali
+
 Prerequisites
 Python 3.x (or the relevant environment for your scripts)
 
